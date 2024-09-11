@@ -94,7 +94,7 @@ DELETE /api/tasks/delete-task/{id} – Delete a task by ID.
 
 Frontend Usage
 
-1-) Open http://localhost:3000 to view the application.
+1-) Open http://localhost:5173 to view the application.
 
 2-) You can add, edit, delete, and search for tasks using the interface.
 
