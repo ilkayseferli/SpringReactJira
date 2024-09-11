@@ -29,7 +29,7 @@ This is a full-stack application for managing tasks, built using Spring Boot for
 
 ```bash
   git clone https://github.com/ilkayseferli/SpringReactJira.git
-  cd task-spring
+  cd SpringReactJira\task-spring
 ```
 2-)Configure PostgreSQL: Make sure PostgreSQL is running locally and the database configuration in application.properties is correct:
 
@@ -58,7 +58,7 @@ Frontend (React)
 1-) Navigate to the frontend directory:
 
 ```bash
-  cd ../task-react
+  cd SpringReactJira\task-react
 ```
 
 2-) Install dependencies: Run the following command to install React dependencies:
